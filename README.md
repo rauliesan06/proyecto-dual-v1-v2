@@ -25,7 +25,6 @@ Interfaz de usuario:
 
 Versión 1 (gestión en memoria interna)
 Versión 2 (almacenamiento en base de datos)
-Versión 3 (carga de cuentas a la base de datos a partir de un csv)
 
 
 
